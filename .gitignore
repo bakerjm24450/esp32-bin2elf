@@ -1,3 +1,8 @@
+# Specific to the esp32-bin2elf project -- flash dumps, data files, and ELF files
+*.bin
+*.elf
+*.dat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
