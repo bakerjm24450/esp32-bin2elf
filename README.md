@@ -10,4 +10,4 @@ Usage:
 
     python esp32-bin2elf.py yourfile.bin
     python esp32-nvs2csv.py yourfile.data.nvs.nvs.dat
-    python esp32-min2csv.py yourfile.data.unknown.minvs.dat
+    python esp32-mi2csv.py yourfile.data.unknown.minvs.dat
